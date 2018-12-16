@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c59c0be-35ff-4ad3-b955-9dca442c14a3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob_practice_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob_practice_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,10 +61,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="442" />
-    <option name="y" value="23" />
-    <option name="width" value="1400" />
-    <option name="height" value="945" />
+    <option name="x" value="316" />
+    <option name="y" value="74" />
+    <option name="width" value="985" />
+    <option name="height" value="808" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -123,7 +121,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="442" y="23" width="1400" height="945" extended-state="0" />
+    <frame x="316" y="74" width="985" height="808" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -132,8 +130,8 @@
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.22759435" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19293079" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.23488045" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.114528105" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
