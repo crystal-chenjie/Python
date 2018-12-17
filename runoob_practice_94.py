@@ -16,7 +16,7 @@ if __name__ == '__main__':
         while guess != i:
             if guess > i:
                 print 'please input a little smaller'
-                guess  = int(raw_input('input you guess:\n'))
+                guess = int(raw_input('input you guess:\n'))
             else:
                 print 'please input a bigger'
                 guess = int(raw_input('input you guess:\n'))
