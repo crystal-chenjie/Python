@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1c59c0be-35ff-4ad3-b955-9dca442c14a3" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/runoob_practice_06.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob_practice_07.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob_practice_08.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runoob_practice_09.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob_practice_10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob_practice_11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runoob_practice_12.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +15,10 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Python_git$runoob_practice_11.coverage" NAME="runoob_practice_11 Coverage Results" MODIFIED="1545060557916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_git$runoob_practice_06.coverage" NAME="runoob_practice_06 Coverage Results" MODIFIED="1545059067241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_git$runoob_practice_08.coverage" NAME="runoob_practice_08 Coverage Results" MODIFIED="1545059557615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_git$runoob_practice_10.coverage" NAME="runoob_practice_10 Coverage Results" MODIFIED="1545059957695" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_git$runoob_practice_07.coverage" NAME="runoob_practice_07 Coverage Results" MODIFIED="1545059194181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Python_git$runoob_practice_09.coverage" NAME="runoob_practice_09 Coverage Results" MODIFIED="1545059720529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
@@ -50,11 +51,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="runoob_practice_09.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="runoob_practice_09.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runoob_practice_09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state>
+              <caret selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runoob_practice_10.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runoob_practice_10.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runoob_practice_11.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runoob_practice_11.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="runoob_practice_12.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/runoob_practice_12.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="24" selection-start-column="24" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -83,6 +111,9 @@
         <option value="$PROJECT_DIR$/runoob_practice_07.py" />
         <option value="$PROJECT_DIR$/runoob_practice_08.py" />
         <option value="$PROJECT_DIR$/runoob_practice_09.py" />
+        <option value="$PROJECT_DIR$/runoob_practice_10.py" />
+        <option value="$PROJECT_DIR$/runoob_practice_11.py" />
+        <option value="$PROJECT_DIR$/runoob_practice_12.py" />
       </list>
     </option>
   </component>
@@ -96,8 +127,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="594" />
-    <option name="y" value="31" />
+    <option name="x" value="315" />
+    <option name="y" value="32" />
     <option name="width" value="1051" />
     <option name="height" value="814" />
   </component>
@@ -142,26 +173,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runoob_practice_09">
-    <configuration name="runoob_practice_06" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python.git" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob_practice_06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.runoob_practice_11">
     <configuration name="runoob_practice_07" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python.git" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -219,18 +231,58 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="runoob_practice_10" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python.git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob_practice_10.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="runoob_practice_11" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python.git" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runoob_practice_11.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.runoob_practice_06" />
       <item itemvalue="Python.runoob_practice_07" />
       <item itemvalue="Python.runoob_practice_08" />
       <item itemvalue="Python.runoob_practice_09" />
+      <item itemvalue="Python.runoob_practice_10" />
+      <item itemvalue="Python.runoob_practice_11" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.runoob_practice_11" />
+        <item itemvalue="Python.runoob_practice_10" />
         <item itemvalue="Python.runoob_practice_09" />
         <item itemvalue="Python.runoob_practice_08" />
         <item itemvalue="Python.runoob_practice_07" />
-        <item itemvalue="Python.runoob_practice_06" />
       </list>
     </recent_temporary>
   </component>
@@ -248,22 +300,22 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="594" y="31" width="1051" height="814" extended-state="0" />
+    <frame x="315" y="32" width="1051" height="814" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32914925" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32914925" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
       <window_info anchor="bottom" id="Terminal" weight="0.23291492" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18235877" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21803766" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="SciView" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39888424" />
       <window_info id="Favorites" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
@@ -401,8 +453,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/runoob_practice_09.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob_practice_10.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob_practice_11.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runoob_practice_12.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
